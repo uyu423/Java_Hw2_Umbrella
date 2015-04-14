@@ -1,7 +1,7 @@
 # Java_Hw2_Umbrella
 Java Prgramming Homework Project 2 - Umbrella
 
-### 과제 내용
+### Homework Contents
 다음 조건에 맞도록 프로그램을 작성하시오. 
 - java_hw2 패키지에 아래 클래스를 만든다. 
 - 우산 클래스와 우산 클래스의 인스턴스를 생성하여 사용해보는 J_Hw2 클래스를 만든다.(J_Hw2 클래스는 main 메소드를 갖는 클래스) 
@@ -11,6 +11,17 @@ Java Prgramming Homework Project 2 - Umbrella
 - 우산 문구를 넣는 경우 2000원이 더해진다. - 살 개수에 따라 가격이 달라진다. 위 가격은 살 개수가 6개인 경우이며 8개일 때는 6개일 때의 가격에 10% 더 비싸
 며, 12개인 경우에는 15% 더 비싸다. 
 - 우산 클래스는 접근자 메소드를 갖는다.(각 정보를 설정하는 메소드와 각 정보 값을 반환하는 메소드, 가격은 반환메소드만 있다.) - 우산 클래스는 모든 정보를 출력하는 메소드를 갖는다. 
+
+### Develop Overview
+*	ProjectName	: Java Programming Homework Proj.2 Umbrella
+*	Corder 		: Yu Yongwoo (YoWu)
+*	Organiz.	: Catholic Univ. of Korea
+*	Major		: Computer Science (Minor : Infomation System Eng)
+*	DateTime	: 2015.4.14 19:30
+*	Contact		: uyu423@gmail.com (http://luckyyowu.tistory.com)
+*	Develop OS	: Windows Embedded 8.1 Industry Pro x64
+*	PorgramLang	: Java (JavaSE-1.8)
+*	IDE	        : Eclipse Luna Service Release 2 (4.4.2)
 
 ### main method 및 출력 예제
     public class J_Hw2 {
